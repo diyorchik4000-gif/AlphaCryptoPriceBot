@@ -5,7 +5,7 @@ from datetime import datetime, timedelta, timezone
 import threading
 
 # TOKENni to'g'ridan-to'g'ri yozish
-TOKEN = "8134986426:AAECKwFDVrFqeN9gH9Z6f_ZddOhZ6Ukw7ss"
+TOKEN = "8134986426:AAEr4WrikLFUBPlh3bB8ZXG3M-rzb-bYr10"
 
 bot = telebot.TeleBot(TOKEN)
 
